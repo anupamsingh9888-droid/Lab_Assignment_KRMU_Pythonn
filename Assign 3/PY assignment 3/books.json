@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Introduction to Programming",
+    "author": "A. Author",
+    "isbn": "1111",
+    "status": "available"
+  },
+  {
+    "title": "Data Structures",
+    "author": "B. Writer",
+    "isbn": "2222",
+    "status": "issued"
+  }
+]
